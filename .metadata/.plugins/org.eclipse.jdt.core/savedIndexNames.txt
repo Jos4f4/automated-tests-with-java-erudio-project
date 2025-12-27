@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+J:\Projetos\automated-tests-with-java-erudio-project\.metadata\.plugins\org.eclipse.jdt.core
+658211509.index
+3510765551.index
+161215178.index
+1322035874.index
+603854143.index
+3831008566.index
+135964731.index
+105116160.index
+2576609292.index
+579007234.index

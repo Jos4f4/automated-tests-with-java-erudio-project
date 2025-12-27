@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.erudio.math.SimpleMathTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.027 s - in br.com.erudio.math.SimpleMathTest

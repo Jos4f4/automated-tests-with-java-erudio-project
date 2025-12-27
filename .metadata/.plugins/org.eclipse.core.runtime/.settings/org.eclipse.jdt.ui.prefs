@@ -1,0 +1,13 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
+content_assist_number_of_computers=14
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="java" deleted\="false" description\="" enabled\="true" name\="testBDD">\t// test[System Under Test]_[Condition or State Change]_[Expected Result]&\#13;\r\n\t@Test&\#13;\r\n\t@DisplayName("Display Name")&\#13;\r\n\tvoid testABCD_When_XYZ_should() {&\#13;\r\n\t\t//Given / Arrange&\#13;\r\n\t\t//When / Act&\#13;\r\n\t\t//Then / Assert &\#13;\r\n\t}</template></templates>
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

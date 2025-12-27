@@ -1,0 +1,7 @@
+package br.com.erudio;
+
+public class SimpleMath {
+	public Double sum(Double firstNumber, Double secondNumber) {
+		return firstNumber + secondNumber;
+	}
+}
