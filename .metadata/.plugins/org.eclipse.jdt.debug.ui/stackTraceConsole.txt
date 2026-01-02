@@ -1,9 +1,18 @@
-org.opentest4j.AssertionFailedError: Division by zero should throw an ArithmeticException ==> Expected java.lang.ArithmeticException to be thrown, but nothing was thrown.
-	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:152)
-	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:73)
-	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:45)
-	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3117)
-	at br.com.erudio.math.SimpleMathTest.testDivision_When_FirstNumberIsDividedByZero_ShouldThrowArithmeticException(SimpleMathTest.java:121)
+org.mockito.exceptions.verification.TooFewActualInvocations: 
+courseService.deleteCourse(
+    <Capturing argument: String>
+);
+Wanted 7 times:
+-> at br.com.erudio.business.CourseBusinessMockWithBDDTest.testDeleteCoursesNotRelatedToSpring_CapturingArguments_Should_CallMethod_deleteCourse(CourseBusinessMockWithBDDTest.java:129)
+But was 6 times:
+-> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
+-> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
+-> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
+-> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
+-> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
+-> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
+
+	at br.com.erudio.business.CourseBusinessMockWithBDDTest.testDeleteCoursesNotRelatedToSpring_CapturingArguments_Should_CallMethod_deleteCourse(CourseBusinessMockWithBDDTest.java:129)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:727)

@@ -44,11 +44,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="automated-tests-with-java-erudio-mockito"/>
 			<item value="br.com.erudio"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="automated-tests-with-java-erudio-mockito"/>
 			<item value="automated-tests-with-java-erudio"/>
 			<item value="automated"/>
 		</list>
@@ -67,5 +69,18 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="J:\Projetos\automated-tests-with-java-erudio-project\automated-tests-with-java-erudio-mockito"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>
