@@ -1,0 +1,6 @@
+br\com\erudio\stubs\CourseServiceStub.class
+br\com\erudio\business\CourseBusinessMockWithBDDTest.class
+br\com\erudio\business\ListWithBDDTest.class
+br\com\erudio\business\CourseBusinessMockTest.class
+br\com\erudio\business\CourseBusinessStubTest.class
+br\com\erudio\business\ListTest.class

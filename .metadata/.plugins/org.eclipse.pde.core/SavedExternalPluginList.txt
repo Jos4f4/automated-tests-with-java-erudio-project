@@ -1,4 +1,4 @@
-# List of external plug-in models previously loaded. Timestamp: 1767381702780
+# List of external plug-in models previously loaded. Timestamp: 1767677644583
 file:/C:/sts-4.24.0.RELEASE/plugins/bcpg_1.78.1.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/bcpkix_1.78.1.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/bcprov_1.78.1.jar
@@ -173,6 +173,9 @@ file:/C:/sts-4.24.0.RELEASE/plugins/org.eclipse.ecf.provider.filetransfer.httpcl
 file:/C:/sts-4.24.0.RELEASE/plugins/org.eclipse.ecf.provider.filetransfer.httpclientjava_2.0.200.v20231114-1017.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.eclipse.ecf.provider.filetransfer.ssl_1.1.0.v20230422-0242.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.eclipse.ecf.ssl_1.3.0.v20230507-1921.jar
+file:/C:/sts-4.24.0.RELEASE/plugins/org.eclipse.eclemma.core_3.1.11.202511262126.jar
+file:/C:/sts-4.24.0.RELEASE/plugins/org.eclipse.eclemma.doc_3.1.11.202511262126.jar
+file:/C:/sts-4.24.0.RELEASE/plugins/org.eclipse.eclemma.ui_3.1.11.202511262126.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.eclipse.egit_6.10.0.202406032230-r.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.eclipse.egit.core_6.10.0.202406032230-r.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.eclipse.egit.doc_6.10.0.202406032230-r.jar
@@ -514,6 +517,9 @@ file:/C:/sts-4.24.0.RELEASE/plugins/org.glassfish.jersey.media.jersey-media-json
 file:/C:/sts-4.24.0.RELEASE/plugins/org.gradle.toolingapi_8.1.1.v20240115-1636.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.hamcrest_2.2.0.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.hamcrest.core_2.2.0.v20230809-1000.jar
+file:/C:/sts-4.24.0.RELEASE/plugins/org.jacoco.agent_0.8.14.202510111229.jar
+file:/C:/sts-4.24.0.RELEASE/plugins/org.jacoco.core_0.8.14.202510111229.jar
+file:/C:/sts-4.24.0.RELEASE/plugins/org.jacoco.report_0.8.14.202510111229.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.jboss.tools.m2e.wro4j.core_1.2.1.202301111328.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.jboss.tools.m2e.wro4j.ui_1.2.1.202301111328.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.jcodings_1.0.58.v20230703-0749.jar
@@ -525,9 +531,9 @@ file:/C:/sts-4.24.0.RELEASE/plugins/org.junit_4.13.2.v20230809-1000.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.mandas.docker-client_7.0.8.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.mortbay.jasper.apache-el_9.0.83.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.mortbay.jasper.apache-jsp_9.0.83.jar
-file:/C:/sts-4.24.0.RELEASE/plugins/org.objectweb.asm_9.7.0.jar
-file:/C:/sts-4.24.0.RELEASE/plugins/org.objectweb.asm.commons_9.7.0.jar
-file:/C:/sts-4.24.0.RELEASE/plugins/org.objectweb.asm.tree_9.7.0.jar
+file:/C:/sts-4.24.0.RELEASE/plugins/org.objectweb.asm_9.9.0.jar
+file:/C:/sts-4.24.0.RELEASE/plugins/org.objectweb.asm.commons_9.9.0.jar
+file:/C:/sts-4.24.0.RELEASE/plugins/org.objectweb.asm.tree_9.9.0.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.objectweb.asm.tree.analysis_9.7.0.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.objectweb.asm.util_9.7.0.jar
 file:/C:/sts-4.24.0.RELEASE/plugins/org.opentest4j_1.3.0.jar

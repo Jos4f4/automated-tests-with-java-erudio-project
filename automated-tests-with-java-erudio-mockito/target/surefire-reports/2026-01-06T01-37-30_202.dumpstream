@@ -1,0 +1,5 @@
+# Created at 2026-01-06T01:37:30.862
+Boot Manifest-JAR contains absolute paths in classpath 'J:\Projetos\automated-tests-with-java-erudio-project\automated-tests-with-java-erudio-mockito\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

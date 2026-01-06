@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_JGi1wOHOEfCxF-L-iUmkzw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_JGi1weHOEfCxF-L-iUmkzw" bindingContexts="_JGlS3-HOEfCxF-L-iUmkzw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusinessMockWithBDDTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockWithBDDTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockWithBDDTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusinessStubTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessStubTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessStubTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusinessMockTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusiness.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/business/CourseBusiness.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/business/CourseBusiness.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseServiceStub.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/stubs/CourseServiceStub.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/stubs/CourseServiceStub.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseService.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/service/CourseService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/service/CourseService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ListWithBDDTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/ListWithBDDTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/ListWithBDDTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ListTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/ListTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/ListTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusinessTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusiness.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/CourseBusiness.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/CourseBusiness.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;automated-tests-with-java-erudio/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SimpleMathTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio/src/test/java/br/com/erudio/math/SimpleMathTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio/src/test/java/br/com/erudio/math/SimpleMathTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SimpleMath.java&quot; tooltip=&quot;automated-tests-with-java-erudio/src/main/java/br/com/erudio/math/SimpleMath.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio/src/main/java/br/com/erudio/math/SimpleMath.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;Assertions.class&quot; tooltip=&quot;org.junit.jupiter.api.Assertions&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=automated-tests-with-java-erudio/C:\/Users\/carlo\/.m2\/repository\/org\/junit\/jupiter\/junit-jupiter-api\/5.9.2\/junit-jupiter-api-5.9.2.jar=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/org.junit.jupiter=/=/maven.artifactId=/junit-jupiter-api=/=/maven.version=/5.9.2=/=/maven.scope=/test=/=/maven.pomderived=/true=/&amp;lt;org.junit.jupiter.api(Assertions.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SimpleMath.java&quot; tooltip=&quot;automated-tests-with-java-erudio/src/main/java/br/com/erudio/SimpleMath.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio/src/main/java/br/com/erudio/SimpleMath.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FooBarTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio/src/test/java/br/com/erudio/FooBarTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio/src/test/java/br/com/erudio/FooBarTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusinessMockWithBDDTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockWithBDDTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockWithBDDTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusinessStubTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessStubTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessStubTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusinessMockTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusiness.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/business/CourseBusiness.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/business/CourseBusiness.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseServiceStub.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/stubs/CourseServiceStub.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/stubs/CourseServiceStub.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseService.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/service/CourseService.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/service/CourseService.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ListWithBDDTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/ListWithBDDTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/ListWithBDDTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ListTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/ListTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/ListTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusinessTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusiness.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/CourseBusiness.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio-mockito/src/main/java/br/com/erudio/CourseBusiness.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;automated-tests-with-java-erudio/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SimpleMathTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio/src/test/java/br/com/erudio/math/SimpleMathTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio/src/test/java/br/com/erudio/math/SimpleMathTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SimpleMath.java&quot; tooltip=&quot;automated-tests-with-java-erudio/src/main/java/br/com/erudio/math/SimpleMath.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio/src/main/java/br/com/erudio/math/SimpleMath.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.ClassFileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;Assertions.class&quot; tooltip=&quot;org.junit.jupiter.api.Assertions&quot;>&#xD;&#xA;&lt;persistable org.eclipse.jdt.ui.ClassFileIdentifier=&quot;=automated-tests-with-java-erudio/C:\/Users\/carlo\/.m2\/repository\/org\/junit\/jupiter\/junit-jupiter-api\/5.9.2\/junit-jupiter-api-5.9.2.jar=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/org.junit.jupiter=/=/maven.artifactId=/junit-jupiter-api=/=/maven.version=/5.9.2=/=/maven.scope=/test=/=/maven.pomderived=/true=/&amp;lt;org.junit.jupiter.api(Assertions.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SimpleMath.java&quot; tooltip=&quot;automated-tests-with-java-erudio/src/main/java/br/com/erudio/SimpleMath.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio/src/main/java/br/com/erudio/SimpleMath.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;FooBarTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio/src/test/java/br/com/erudio/FooBarTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/automated-tests-with-java-erudio/src/test/java/br/com/erudio/FooBarTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_JGi1weHOEfCxF-L-iUmkzw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_JGi1wuHOEfCxF-L-iUmkzw" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
@@ -73,6 +73,7 @@
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
           <tags>persp.actionSet:org.eclipse.debug.ui.debugActionSet</tags>
+          <tags>persp.actionSet:org.eclipse.eclemma.ui.CoverageActionSet</tags>
           <tags>persp.editorOnboardingImageUri:platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/onboarding_jperspective.png</tags>
           <tags>persp.editorOnboardingText:Open a file or drop files here to open them.</tags>
           <tags>persp.editorOnboardingCommand:Find Actions$$$Ctrl+3</tags>
@@ -229,6 +230,7 @@
           <tags>persp.viewSC:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.showIn:org.eclipse.tm.terminal.view.ui.TerminalsView</tags>
           <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
+          <tags>persp.actionSet:org.eclipse.eclemma.ui.CoverageActionSet</tags>
           <tags>persp.editorOnboardingImageUri:platform:/plugin/org.eclipse.debug.ui/icons/full/onboarding_debug_persp.png</tags>
           <tags>persp.editorOnboardingText:Go hunt your bugs here.</tags>
           <tags>persp.editorOnboardingCommand:Find Actions$$$Ctrl+3</tags>
@@ -238,7 +240,7 @@
           <tags>persp.editorOnboardingCommand:Resume$$$F8</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_V7CgcOLVEfCEkvCxju4DBw" selectedElement="_V7CgeOLVEfCEkvCxju4DBw" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_ZkbB8OLVEfCEkvCxju4DBw" containerData="2083" selectedElement="_V7CgceLVEfCEkvCxju4DBw">
-              <children xsi:type="basic:PartStack" xmi:id="_V7CgceLVEfCEkvCxju4DBw" elementId="org.eclipse.debug.internal.ui.NavigatorFolderView" containerData="7467" selectedElement="_V7Cgd-LVEfCEkvCxju4DBw">
+              <children xsi:type="basic:PartStack" xmi:id="_V7CgceLVEfCEkvCxju4DBw" elementId="org.eclipse.debug.internal.ui.NavigatorFolderView" containerData="7467" selectedElement="_V7Cgc-LVEfCEkvCxju4DBw">
                 <tags>org.eclipse.e4.primaryNavigationStack</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_V7CgcuLVEfCEkvCxju4DBw" elementId="org.eclipse.debug.ui.DebugView" toBeRendered="false" ref="_JkvuoOLUEfCEkvCxju4DBw" closeable="true">
                   <tags>View</tags>
@@ -270,8 +272,8 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_V7CgeOLVEfCEkvCxju4DBw" containerData="7917" selectedElement="_V7CgeeLVEfCEkvCxju4DBw">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_V7CgeeLVEfCEkvCxju4DBw" containerData="6732" selectedElement="_V7CgeuLVEfCEkvCxju4DBw" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_V7CgeOLVEfCEkvCxju4DBw" containerData="7917" selectedElement="_V7Cgg-LVEfCEkvCxju4DBw">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_V7CgeeLVEfCEkvCxju4DBw" containerData="6107" selectedElement="_V7CgeuLVEfCEkvCxju4DBw" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_V7CgeuLVEfCEkvCxju4DBw" elementId="org.eclipse.ui.editorss" containerData="6500" ref="_JGjde-HOEfCxF-L-iUmkzw"/>
                 <children xsi:type="basic:PartStack" xmi:id="_V7Cge-LVEfCEkvCxju4DBw" elementId="org.eclipse.debug.internal.ui.OutlineFolderView" containerData="3500" selectedElement="_V7CgfuLVEfCEkvCxju4DBw">
                   <tags>org.eclipse.e4.secondaryNavigationStack</tags>
@@ -305,7 +307,9 @@
                   </children>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_V7Cgg-LVEfCEkvCxju4DBw" elementId="org.eclipse.debug.internal.ui.ToolsFolderView" containerData="3268" selectedElement="_V7CghOLVEfCEkvCxju4DBw">
+              <children xsi:type="basic:PartStack" xmi:id="_V7Cgg-LVEfCEkvCxju4DBw" elementId="org.eclipse.debug.internal.ui.ToolsFolderView" containerData="3893" selectedElement="_V7CgjOLVEfCEkvCxju4DBw">
+                <tags>Java</tags>
+                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_V7CghOLVEfCEkvCxju4DBw" elementId="org.eclipse.ui.console.ConsoleView" ref="_JGkENOHOEfCxF-L-iUmkzw" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
@@ -341,6 +345,10 @@
                 <children xsi:type="advanced:Placeholder" xmi:id="_V7CgjOLVEfCEkvCxju4DBw" elementId="org.eclipse.tm.terminal.view.ui.TerminalsView" ref="_JGkq8-HOEfCxF-L-iUmkzw" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:Terminal</tags>
+                </children>
+                <children xsi:type="advanced:Placeholder" xmi:id="_TZ7kcOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.CoverageView" ref="_TZ69YOq-EfCb18gg_1t2cQ" closeable="true">
+                  <tags>View</tags>
+                  <tags>categoryTag:Java</tags>
                 </children>
               </children>
             </children>
@@ -380,11 +388,10 @@
       <tags>View</tags>
       <tags>categoryTag:Help</tags>
     </sharedElements>
-    <sharedElements xsi:type="advanced:Area" xmi:id="_JGjde-HOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.editorss">
-      <children xsi:type="basic:PartStack" xmi:id="_JGjdfOHOEfCxF-L-iUmkzw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_rFhvUOgGEfCmju1h4B9qSw">
+    <sharedElements xsi:type="advanced:Area" xmi:id="_JGjde-HOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.editorss" selectedElement="_JGjdfOHOEfCxF-L-iUmkzw">
+      <children xsi:type="basic:PartStack" xmi:id="_JGjdfOHOEfCxF-L-iUmkzw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_od5tgOq-EfCb18gg_1t2cQ">
         <tags>EditorStack</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
-        <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_d6UaQOU9EfCmju1h4B9qSw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="automated-tests-with-java-erudio-mockito/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;automated-tests-with-java-erudio-mockito/pom.xml&quot; title=&quot;automated-tests-with-java-erudio-mockito/pom.xml&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/automated-tests-with-java-erudio-mockito/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -416,12 +423,10 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_rFhvUOgGEfCmju1h4B9qSw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CourseBusinessMockWithBDDTest.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusinessMockWithBDDTest.java&quot; partName=&quot;CourseBusinessMockWithBDDTest.java&quot; title=&quot;CourseBusinessMockWithBDDTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockWithBDDTest.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockWithBDDTest.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1776&quot; selectionTopPixel=&quot;1720&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusinessMockWithBDDTest.java&quot; partName=&quot;CourseBusinessMockWithBDDTest.java&quot; title=&quot;CourseBusinessMockWithBDDTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockWithBDDTest.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockWithBDDTest.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1776&quot; selectionTopPixel=&quot;1601&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_uwarIOeiEfCmju1h4B9qSw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CourseBusinessMockTest.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CourseBusinessMockTest.java&quot; partName=&quot;CourseBusinessMockTest.java&quot; title=&quot;CourseBusinessMockTest.java&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockTest.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/automated-tests-with-java-erudio-mockito/src/test/java/br/com/erudio/business/CourseBusinessMockTest.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1452&quot; selectionTopPixel=&quot;321&quot;/>&#xD;&#xA;&lt;/editor>"/>
@@ -440,6 +445,12 @@
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_od5tgOq-EfCb18gg_1t2cQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="automated-tests-with-java-erudio-mockito/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;automated-tests-with-java-erudio-mockito/pom.xml&quot; title=&quot;automated-tests-with-java-erudio-mockito/pom.xml&quot; tooltip=&quot;automated-tests-with-java-erudio-mockito/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/automated-tests-with-java-erudio-mockito/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
         </children>
       </children>
     </sharedElements>
@@ -515,6 +526,7 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>highlighted</tags>
       <menus xmi:id="_JGkENeHOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -605,6 +617,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view>&#xD;&#xA;&lt;terminalConnections id=&quot;org.eclipse.tm.terminal.view.ui.TerminalsView&quot;>&#xD;&#xA;&lt;connection delegateId=&quot;org.eclipse.tm.terminal.connector.local.launcher.local&quot; encoding=&quot;UTF-8&quot; process.working_dir=&quot;J:\Projetos\automated-tests-with-java-erudio-project\automated-tests-with-java-erudio-mockito&quot; terminal.forceNew=&quot;true&quot;/>&#xD;&#xA;&lt;/terminalConnections>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Terminal</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_JGkq9OHOEfCxF-L-iUmkzw" elementId="org.eclipse.tm.terminal.view.ui.TerminalsView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -713,6 +727,18 @@
       </menus>
       <toolbar xmi:id="_V_neceLVEfCEkvCxju4DBw" elementId="org.eclipse.jdt.debug.ui.DisplayView" visible="false"/>
     </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_TZ69YOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.CoverageView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Coverage" iconURI="platform:/plugin/org.eclipse.eclemma.ui/icons/full/eview16/coverage.png" tooltip="" closeable="true">
+      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.eclemma.internal.ui.coverageview.CoverageView"/>
+      <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.eclemma.ui"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view column0=&quot;300&quot; column1=&quot;80&quot; column2=&quot;120&quot; column3=&quot;120&quot; column4=&quot;120&quot; counters=&quot;INSTRUCTION&quot; hideunusedelements=&quot;false&quot; linked=&quot;false&quot; reversesort=&quot;true&quot; roottype=&quot;GROUP&quot; sortcolumn=&quot;3&quot;/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Java</tags>
+      <menus xmi:id="_Tae-EOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.CoverageView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_Tae-Eeq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.CoverageView" visible="false"/>
+    </sharedElements>
     <trimBars xmi:id="_JGkrJ-HOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.main.toolbar" contributorURI="platform:/plugin/org.eclipse.platform">
       <children xsi:type="menu:ToolBar" xmi:id="_JGkrKOHOEfCxF-L-iUmkzw" elementId="group.file" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -720,7 +746,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_JGkrKuHOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_MdijQOgPEfC_sMeB6dN7qg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_JGnu6eHOEfCxF-L-iUmkzw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_LrSdwOq-EfCb18gg_1t2cQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_JGnu6eHOEfCxF-L-iUmkzw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_JGkrN-HOEfCxF-L-iUmkzw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -728,8 +754,8 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_JGkrOeHOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.workbench.edit">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_MdjxYOgPEfC_sMeB6dN7qg" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_JGnIuuHOEfCxF-L-iUmkzw"/>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_MdjxYegPEfC_sMeB6dN7qg" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_JGnJL-HOEfCxF-L-iUmkzw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_LrUS8Oq-EfCb18gg_1t2cQ" elementId="undo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/undo_edit.png" tooltip="Undo" enabled="false" command="_JGnIuuHOEfCxF-L-iUmkzw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_LrU6AOq-EfCb18gg_1t2cQ" elementId="redo" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/redo_edit.png" tooltip="Redo" enabled="false" command="_JGnJL-HOEfCxF-L-iUmkzw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_JGkrPeHOEfCxF-L-iUmkzw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -744,7 +770,7 @@
       <children xsi:type="menu:ToolBar" xmi:id="_JGkrW-HOEfCxF-L-iUmkzw" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_JGkrX-HOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
+      <children xsi:type="menu:ToolBar" xmi:id="_JGkrX-HOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_JGkraeHOEfCxF-L-iUmkzw" elementId="group.nav" toBeRendered="false">
@@ -753,7 +779,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_JGkra-HOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_MdkYdOgPEfC_sMeB6dN7qg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_JGnupOHOEfCxF-L-iUmkzw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_LrVhEOq-EfCb18gg_1t2cQ" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_JGnupOHOEfCxF-L-iUmkzw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_JGkreeHOEfCxF-L-iUmkzw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -803,6 +829,10 @@
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_MrwFwOgMEfCmju1h4B9qSw" elementId="org.eclipse.debug.internal.ui.ToolsFolderView(IDEWindow).(org.eclipse.debug.ui.DebugPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_gHFzkOq-EfCb18gg_1t2cQ" elementId="org.eclipse.ui.editorss(IDEWindow).(org.eclipse.debug.ui.DebugPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
@@ -1053,6 +1083,16 @@
     <bindings xmi:id="_JGlSKuHOEfCxF-L-iUmkzw" keySequence="ALT+SHIFT+D O" command="_JGnJZ-HOEfCxF-L-iUmkzw"/>
     <bindings xmi:id="_JGlSK-HOEfCxF-L-iUmkzw" keySequence="ALT+SHIFT+D P" command="_JGnu5eHOEfCxF-L-iUmkzw"/>
     <bindings xmi:id="_JGlSLOHOEfCxF-L-iUmkzw" keySequence="ALT+SHIFT+D Q" command="_JGnJHeHOEfCxF-L-iUmkzw"/>
+    <bindings xmi:id="_LSb44Oq-EfCb18gg_1t2cQ" keySequence="CTRL+SHIFT+F11" command="_LRtgKuq-EfCb18gg_1t2cQ"/>
+    <bindings xmi:id="_LSe8MOq-EfCb18gg_1t2cQ" keySequence="ALT+SHIFT+E E" command="_LRtgIeq-EfCb18gg_1t2cQ"/>
+    <bindings xmi:id="_LSe8Meq-EfCb18gg_1t2cQ" keySequence="ALT+SHIFT+E G" command="_LRtgJuq-EfCb18gg_1t2cQ"/>
+    <bindings xmi:id="_LSe8Muq-EfCb18gg_1t2cQ" keySequence="ALT+SHIFT+E J" command="_LRs5Euq-EfCb18gg_1t2cQ"/>
+    <bindings xmi:id="_LSe8M-q-EfCb18gg_1t2cQ" keySequence="ALT+SHIFT+E S" command="_LRtgKOq-EfCb18gg_1t2cQ"/>
+    <bindings xmi:id="_LSe8NOq-EfCb18gg_1t2cQ" keySequence="ALT+SHIFT+E T" command="_LRtgIOq-EfCb18gg_1t2cQ"/>
+    <bindings xmi:id="_LSe8Neq-EfCb18gg_1t2cQ" keySequence="ALT+SHIFT+E L" command="_LRs5FOq-EfCb18gg_1t2cQ"/>
+    <bindings xmi:id="_LSe8Nuq-EfCb18gg_1t2cQ" keySequence="ALT+SHIFT+E N" command="_LRuHMOq-EfCb18gg_1t2cQ"/>
+    <bindings xmi:id="_LSfjQOq-EfCb18gg_1t2cQ" keySequence="ALT+SHIFT+E P" command="_LRs5EOq-EfCb18gg_1t2cQ"/>
+    <bindings xmi:id="_LSfjQeq-EfCb18gg_1t2cQ" keySequence="ALT+SHIFT+E R" command="_LRtgJeq-EfCb18gg_1t2cQ"/>
   </bindingTables>
   <bindingTables xmi:id="_JGlSLeHOEfCxF-L-iUmkzw" elementId="org.eclipse.jdt.ui.javaEditorScope" bindingContext="_JGlS6eHOEfCxF-L-iUmkzw">
     <bindings xmi:id="_JGlSLuHOEfCxF-L-iUmkzw" keySequence="CTRL+SHIFT+P" command="_JGnug-HOEfCxF-L-iUmkzw"/>
@@ -1260,6 +1300,7 @@
   <bindingTables xmi:id="_JGlS3eHOEfCxF-L-iUmkzw" bindingContext="_JGl5O-HOEfCxF-L-iUmkzw"/>
   <bindingTables xmi:id="_JGlS3uHOEfCxF-L-iUmkzw" bindingContext="_JGl5POHOEfCxF-L-iUmkzw"/>
   <bindingTables xmi:id="_Jkq2IeLUEfCEkvCxju4DBw" bindingContext="_Jkq2IOLUEfCEkvCxju4DBw"/>
+  <bindingTables xmi:id="_Lo2NwOq-EfCb18gg_1t2cQ" bindingContext="_Lo1msOq-EfCb18gg_1t2cQ"/>
   <rootContext xmi:id="_JGlS3-HOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.contexts.dialogAndWindow" contributorURI="platform:/plugin/org.eclipse.platform" name="In Dialogs and Windows" description="Either a dialog or a window is open">
     <children xmi:id="_JGlS4OHOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.contexts.window" contributorURI="platform:/plugin/org.eclipse.platform" name="In Windows" description="A window is open">
       <children xmi:id="_JGlS4eHOEfCxF-L-iUmkzw" elementId="org.eclipse.e4.ui.contexts.views" contributorURI="platform:/plugin/org.eclipse.platform" name="%bindingcontext.name.bindingView"/>
@@ -1340,6 +1381,7 @@
   <rootContext xmi:id="_JGl5O-HOEfCxF-L-iUmkzw" elementId="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" name="Auto::org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
   <rootContext xmi:id="_JGl5POHOEfCxF-L-iUmkzw" elementId="org.springsource.ide.eclipse.commons.launch.actionSet" name="Auto::org.springsource.ide.eclipse.commons.launch.actionSet"/>
   <rootContext xmi:id="_Jkq2IOLUEfCEkvCxju4DBw" elementId="org.eclipse.jdt.junit.launchconfig.internal.org.eclipse.debug.ui.DebugPerspective" name="Auto::org.eclipse.jdt.junit.launchconfig.internal.org.eclipse.debug.ui.DebugPerspective"/>
+  <rootContext xmi:id="_Lo1msOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.CoverageActionSet" name="Auto::org.eclipse.eclemma.ui.CoverageActionSet"/>
   <descriptors xmi:id="_JGl5PeHOEfCxF-L-iUmkzw" elementId="org.eclipse.e4.ui.compatibility.editor" allowMultiple="true" category="org.eclipse.e4.primaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor">
     <tags>Editor</tags>
     <tags>removeOnHide</tags>
@@ -1778,6 +1820,12 @@
     <persistedState key="originalCompatibilityViewBundle" value="org.springframework.tooling.ls.eclipse.gotosymbol"/>
     <tags>View</tags>
     <tags>categoryTag:Other</tags>
+  </descriptors>
+  <descriptors xmi:id="_Loj54Oq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.CoverageView" label="Coverage" iconURI="platform:/plugin/org.eclipse.eclemma.ui/icons/full/eview16/coverage.png" tooltip="" category="Java" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <persistedState key="originalCompatibilityViewClass" value="org.eclipse.eclemma.internal.ui.coverageview.CoverageView"/>
+    <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.eclemma.ui"/>
+    <tags>View</tags>
+    <tags>categoryTag:Java</tags>
   </descriptors>
   <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
     <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
@@ -2798,6 +2846,38 @@
   <commands xmi:id="_JGnv8eHOEfCxF-L-iUmkzw" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.DisplayViewActions/org.eclipse.jdt.debug.ui.displayViewToolbar.Display" commandName="Display" description="Display Result of Evaluating Selected Text" category="_JGnwJOHOEfCxF-L-iUmkzw"/>
   <commands xmi:id="_JGnv8uHOEfCxF-L-iUmkzw" elementId="AUTOGEN:::org.eclipse.jdt.debug.ui.DisplayViewActions/org.eclipse.jdt.debug.ui.displayViewToolbar.Inspect" commandName="Inspect" description="Inspect Result of Evaluating Selected Text" category="_JGnwJOHOEfCxF-L-iUmkzw"/>
   <commands xmi:id="_JGnv8-HOEfCxF-L-iUmkzw" elementId="AUTOGEN:::org.eclipse.pde.ui.logViewActions/org.eclipse.jdt.debug.ui.LogViewActions.showStackTrace" commandName="Show Stack Trace in Console View" description="Show Stack Trace in Console View" category="_JGnwJOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRs5EOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.junitPluginShortcut.coverage" commandName="Coverage JUnit Plug-in Test" description="Coverage JUnit Plug-in Test" category="_JGnwHOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRs5Eeq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.hideUnusedElements" commandName="Hide Unused Elements" category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LRs5Euq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.localJavaShortcut.coverage" commandName="Coverage Java Application" description="Coverage Java Application" category="_JGnwHOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRs5E-q-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.exportSession" commandName="Export Session..." category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LRs5FOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.scalaShortcut.coverage" commandName="Coverage Scala Application" description="Coverage Scala Application" category="_JGnwHOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRs5Feq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.dumpExecutionData" commandName="Dump Execution Data" category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LRtgIOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.junitShortcut.coverage" commandName="Coverage JUnit Test" description="Coverage JUnit Test" category="_JGnwHOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRtgIeq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.workbenchShortcut.coverage" commandName="Coverage Eclipse Application" description="Coverage Eclipse Application" category="_JGnwHOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRtgIuq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.commands.OpenCoverageConfiguration" commandName="Coverage Configurations..." description="Coverage Configurations..." category="_JGnwHOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRtgI-q-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.openSessionExecutionData" commandName="Open Execution Data" category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LRtgJOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.relaunchSession" commandName="Relaunch Coverage Session" category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LRtgJeq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.junitRAPShortcut.coverage" commandName="Coverage RAP JUnit Test" description="Coverage RAP JUnit Test" category="_JGnwHOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRtgJuq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.testNgSuiteShortcut.coverage" commandName="Coverage TestNG Suite" description="Coverage TestNG Suite" category="_JGnwHOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRtgJ-q-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.removeActiveSession" commandName="Remove Active Session" category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LRtgKOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.swtBotJunitShortcut.coverage" commandName="Coverage SWTBot Test" description="Coverage SWTBot Test" category="_JGnwHOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRtgKeq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.linkWithSelection" commandName="Link with Current Selection" category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LRtgKuq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.commands.CoverageLast" commandName="Coverage" description="Coverage" category="_JGnwHOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRtgK-q-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.resetOnDump" commandName="Reset on Dump" category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LRtgLOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.selectRootElements" commandName="Select Root Elements" category="_LRsSAOq-EfCb18gg_1t2cQ">
+    <parameters xmi:id="_LRtgLeq-EfCb18gg_1t2cQ" elementId="type" name="type" optional="false"/>
+  </commands>
+  <commands xmi:id="_LRtgLuq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.removeAllSessions" commandName="Remove All Sessions" category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LRtgL-q-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.mergeSessions" commandName="Merge Sessions" category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LRtgMOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.selectCounters" commandName="Select Counters" category="_LRsSAOq-EfCb18gg_1t2cQ">
+    <parameters xmi:id="_LRtgMeq-EfCb18gg_1t2cQ" elementId="type" name="type" optional="false"/>
+  </commands>
+  <commands xmi:id="_LRtgMuq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.importSession" commandName="Import Session..." category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LRuHMOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.testNgShortcut.coverage" commandName="Coverage TestNG Test" description="Coverage TestNG Test" category="_JGnwHOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LRuHMeq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui.selectActiveSession" commandName="Select Active Session..." category="_LRsSAOq-EfCb18gg_1t2cQ"/>
+  <commands xmi:id="_LnQ5YOq-EfCb18gg_1t2cQ" elementId="AUTOGEN:::org.eclipse.eclemma.ui.CoverageActionSet/org.eclipse.eclemma.ui.actions.CoverageDropDownAction" commandName="Coverage" category="_JGnwJOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LnSHgOq-EfCb18gg_1t2cQ" elementId="AUTOGEN:::org.eclipse.eclemma.ui.CoverageActionSet/org.eclipse.eclemma.ui.actions.CoverageAsAction" commandName="Coverage As" category="_JGnwJOHOEfCxF-L-iUmkzw"/>
+  <commands xmi:id="_LnSHgeq-EfCb18gg_1t2cQ" elementId="AUTOGEN:::org.eclipse.eclemma.ui.CoverageActionSet/org.eclipse.eclemma.ui.actions.CoverageHistoryAction" commandName="Coverage History" category="_JGnwJOHOEfCxF-L-iUmkzw"/>
   <addons xmi:id="_JGnv9OHOEfCxF-L-iUmkzw" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
   <addons xmi:id="_JGnv9eHOEfCxF-L-iUmkzw" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
   <addons xmi:id="_JGnv9uHOEfCxF-L-iUmkzw" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
@@ -2809,7 +2889,7 @@
   <addons xmi:id="_JGnv_OHOEfCxF-L-iUmkzw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_JGnv_eHOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_JGnv_uHOEfCxF-L-iUmkzw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_MOWQsOgPEfC_sMeB6dN7qg" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_LTK4sOq-EfCb18gg_1t2cQ" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_JGnwAOHOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_JGnwAeHOEfCxF-L-iUmkzw" elementId="org.eclipse.team.ui.category.team" name="Version control (Team)" description="Actions that apply when working with a version control system"/>
   <categories xmi:id="_JGnwAuHOEfCxF-L-iUmkzw" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
@@ -2847,4 +2927,5 @@
   <categories xmi:id="_JGnwIuHOEfCxF-L-iUmkzw" elementId="org.eclipse.pde.runtime.spy.commands.category" name="Spy"/>
   <categories xmi:id="_JGnwI-HOEfCxF-L-iUmkzw" elementId="org.eclipse.pde.ui.category.source" name="Manifest Editor Source" description="PDE Source Page actions"/>
   <categories xmi:id="_JGnwJOHOEfCxF-L-iUmkzw" elementId="org.eclipse.core.commands.categories.autogenerated" name="Uncategorized" description="Commands that were either auto-generated or have no category"/>
+  <categories xmi:id="_LRsSAOq-EfCb18gg_1t2cQ" elementId="org.eclipse.eclemma.ui" name="EclEmma Code Coverage"/>
 </application:Application>
