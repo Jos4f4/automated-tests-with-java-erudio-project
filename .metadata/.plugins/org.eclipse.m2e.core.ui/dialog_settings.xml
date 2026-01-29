@@ -72,6 +72,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="J:\Projetos\automated-tests-with-java-erudio-project\rest-with-spring-boot-and-java-erudio"/>
 			<item value="J:\Projetos\automated-tests-with-java-erudio-project\automated-tests-with-java-erudio-mockito"/>
 		</list>
 		<list key="projectNameTemplate">

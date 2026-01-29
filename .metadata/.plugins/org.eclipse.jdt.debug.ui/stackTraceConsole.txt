@@ -1,18 +1,11 @@
-org.mockito.exceptions.verification.TooFewActualInvocations: 
-courseService.deleteCourse(
-    <Capturing argument: String>
-);
-Wanted 7 times:
--> at br.com.erudio.business.CourseBusinessMockWithBDDTest.testDeleteCoursesNotRelatedToSpring_CapturingArguments_Should_CallMethod_deleteCourse(CourseBusinessMockWithBDDTest.java:129)
-But was 6 times:
--> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
--> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
--> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
--> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
--> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
--> at br.com.erudio.business.CourseBusiness.deleteCoursesNotRelatedToString(CourseBusiness.java:39)
-
-	at br.com.erudio.business.CourseBusinessMockWithBDDTest.testDeleteCoursesNotRelatedToSpring_CapturingArguments_Should_CallMethod_deleteCourse(CourseBusinessMockWithBDDTest.java:129)
+org.opentest4j.AssertionFailedError: expected: <leonardo@erudio.com.br> but was: <Leonardo>
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1142)
+	at br.com.erudio.repositories.PersonRepositoryTest.testGivenPersonObject_whenUpdatePerson_thenReturnUpdatedPersonObject(PersonRepositoryTest.java:148)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:727)
