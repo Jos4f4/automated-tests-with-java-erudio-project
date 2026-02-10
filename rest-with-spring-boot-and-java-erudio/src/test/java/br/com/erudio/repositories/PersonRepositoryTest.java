@@ -35,7 +35,8 @@ class PersonRepositoryTest {
 	}
 	
 	// test[System Under Test]_[Condition or State Change]_[Expected Result]
-	@DisplayName("Junit test for Given Person Object when Save then Return Saved Person")
+	@DisplayName("Junit test for Given Person Object when Save "
+			+ "then Return Saved Person")
 	@Test
 	void testGivenPersonObject_whenSave_thenReturnSavedPerson() {
 		
@@ -49,7 +50,8 @@ class PersonRepositoryTest {
 		assertTrue(savedPerson.getId() > 0);
 	}
 	
-	@DisplayName("Junit test for Given Person List when findAll then Return Person List")
+	@DisplayName("Junit test for Given Person List when findAll then "
+			+ "Return Person List")
 	@Test
 	void testGivenPersonList_whenFindAll_thenReturnPersonList() {
 		
@@ -73,7 +75,8 @@ class PersonRepositoryTest {
 		assertEquals(2, personList.size());
 	}
 	
-	@DisplayName("Junit test for Given Person Object when findByID then Return Person Object")
+	@DisplayName("Junit test for Given Person Object when findByID "
+			+ "then Return Person Object")
 	@Test
 	void testGivenPersonObject_whenFindByID_thenReturnPersonObject() {
 		
@@ -88,7 +91,8 @@ class PersonRepositoryTest {
 		assertEquals(person0.getId(), savedPerson.getId());
 	}
 	
-	@DisplayName("Junit test for Given Person Object when findByEmail then Return Person Object")
+	@DisplayName("Junit test for Given Person Object when findByEmail then "
+			+ "Return Person Object")
 	@Test
 	void testGivenPersonObject_whenFindByEmail_thenReturnPersonObject() {
 		

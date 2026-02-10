@@ -35,6 +35,6 @@ public interface PersonRepository extends JpaRepository<Person, Long> {
 		nativeQuery = true
 	)
 	Person findByNativeSQLwithNamedParameters(
-			@Param("firstName") String firstName, @Param("lastName") String lastName
+		@Param("firstName") String firstName, @Param("lastName") String lastName
 	);
 }
