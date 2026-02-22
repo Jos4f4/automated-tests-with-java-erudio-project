@@ -1,6 +1,7 @@
 package br.com.erudio.services;
 
 import java.util.List;
+import java.util.Optional;
 import java.util.logging.Logger;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,7 +22,7 @@ public class PersonServices {
 	public List<Person> findAll() {
 
 		logger.info("Finding all people!");
-
+		
 		return repository.findAll();
 	}
 
@@ -39,6 +40,15 @@ public class PersonServices {
 
 		logger.info("Creating one person!");
 		
+		Optional<Person> savedPerson = repository
+			.findByEmail(person.getEmail());
+		
+		if(savedPerson.isPresent()) {
+			throw new ResourceNotFoundException(
+				"Person already exist with given e-Mail: " 
+				+ person.getEmail()
+			);
+		}
 		return repository.save(person);
 	}
 	

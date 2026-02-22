@@ -1,11 +1,21 @@
-org.opentest4j.AssertionFailedError: expected: <leonardo@erudio.com.br> but was: <Leonardo>
-	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
-	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
-	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
-	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
-	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
-	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1142)
-	at br.com.erudio.repositories.PersonRepositoryTest.testGivenPersonObject_whenUpdatePerson_thenReturnUpdatedPersonObject(PersonRepositoryTest.java:148)
+org.mockito.exceptions.misusing.PotentialStubbingProblem: 
+Strict stubbing argument mismatch. Please check:
+ - this invocation of 'findById' method:
+    repository.findById(null);
+    -> at br.com.erudio.services.PersonServices.update(PersonServices.java:59)
+ - has following stubbing(s) with different arguments:
+    1. repository.findById(1L);
+      -> at br.com.erudio.services.PersonServicesTest.testGivenPersonObject_WhenUpdatePerson_thenReturnUpdatedPersonObject(PersonServicesTest.java:162)
+Typically, stubbing argument mismatch indicates user mistake when writing tests.
+Mockito fails early so that you can debug potential problem easily.
+However, there are legit scenarios when this exception generates false negative signal:
+  - stubbing the same method multiple times using 'given().will()' or 'when().then()' API
+    Please use 'will().given()' or 'doReturn().when()' API for stubbing.
+  - stubbed method is intentionally invoked with different arguments by code under test
+    Please use default or 'silent' JUnit Rule (equivalent of Strictness.LENIENT).
+For more information see javadoc for PotentialStubbingProblem class.
+	at br.com.erudio.services.PersonServices.update(PersonServices.java:59)
+	at br.com.erudio.services.PersonServicesTest.testGivenPersonObject_WhenUpdatePerson_thenReturnUpdatedPersonObject(PersonServicesTest.java:171)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:727)
