@@ -35,9 +35,8 @@ class PersonRepositoryTest {
 	}
 	
 	// test[System Under Test]_[Condition or State Change]_[Expected Result]
-	@DisplayName("Junit test for Given Person Object when Save "
-			+ "then Return Saved Person")
 	@Test
+	@DisplayName("Junit test for Given Person Object when Save then Return Saved Person")
 	void testGivenPersonObject_whenSave_thenReturnSavedPerson() {
 		
 		// Given / Arrange
@@ -50,9 +49,8 @@ class PersonRepositoryTest {
 		assertTrue(savedPerson.getId() > 0);
 	}
 	
-	@DisplayName("Junit test for Given Person List when findAll then "
-			+ "Return Person List")
 	@Test
+	@DisplayName("Junit test for Given Person List when findAll then Return Person List")
 	void testGivenPersonList_whenFindAll_thenReturnPersonList() {
 		
 		// Given / Arrange
@@ -75,9 +73,8 @@ class PersonRepositoryTest {
 		assertEquals(2, personList.size());
 	}
 	
-	@DisplayName("Junit test for Given Person Object when findByID "
-			+ "then Return Person Object")
 	@Test
+	@DisplayName("Junit test for Given Person Object when findByID then Return Person Object")
 	void testGivenPersonObject_whenFindByID_thenReturnPersonObject() {
 		
 		// Given / Arrange
@@ -91,9 +88,8 @@ class PersonRepositoryTest {
 		assertEquals(person0.getId(), savedPerson.getId());
 	}
 	
-	@DisplayName("Junit test for Given Person Object when findByEmail then "
-			+ "Return Person Object")
 	@Test
+	@DisplayName("Junit test for Given Person Object when findByEmail then Return Person Object")
 	void testGivenPersonObject_whenFindByEmail_thenReturnPersonObject() {
 		
 		// Given / Arrange
@@ -107,8 +103,8 @@ class PersonRepositoryTest {
 		assertEquals(person0.getId(), savedPerson.getId());
 	}
 	
-	@DisplayName("Junit test for Given Person Object when Update Person then Return Person Object")
 	@Test
+	@DisplayName("Junit test for Given Person Object when Update Person then Return Person Object")
 	void testGivenPersonObject_whenUpdatePerson_thenReturnUpdatedPersonObject() {
 		
 		// Given / Arrange
@@ -128,8 +124,8 @@ class PersonRepositoryTest {
 		assertEquals("leonardo@erudio.com.br", updatedPerson.getEmail());
 	}
 	
-	@DisplayName("Junit test for Given Person Object when Delete then Remove Person")
 	@Test
+	@DisplayName("Junit test for Given Person Object when Delete then Remove Person")
 	void testGivenPersonObject_whenDelete_thenRemovePerson() {
 		
 		// Given / Arrange
@@ -144,10 +140,8 @@ class PersonRepositoryTest {
 		assertTrue(personOptional.isEmpty());
 	}
 	
-	@DisplayName(
-		"Junit test for Given First Name And LastName when findJPQL then Return Person Object"
-	)
 	@Test
+	@DisplayName("Junit test for Given First Name And LastName when findJPQL then Return Person Object")
 	void testGivenFirstNameAndLastName_whenFindJPQL_thenReturnPersonObject() {
 		
 		// Given / Arrange
@@ -165,10 +159,8 @@ class PersonRepositoryTest {
 		assertEquals(lastName, savedPerson.getLastName());
 	}
 	
-	@DisplayName(
-		"Junit test for Given First Name And LastName when findByJPQLNamedParameters then Return Person Object"
-	)
 	@Test
+	@DisplayName("Junit test for Given First Name And LastName when findByJPQLNamedParameters then Return Person Object")
 	void testGivenFirstNameAndLastName_whenFindJPQLNamedParameters_thenReturnPersonObject() {
 		
 		// Given / Arrange
@@ -186,10 +178,8 @@ class PersonRepositoryTest {
 		assertEquals(lastName, savedPerson.getLastName());
 	}
 	
-	@DisplayName(
-		"Junit test for Given First Name And LastName when findByNativeSQL then Return Person Object"
-	)
 	@Test
+	@DisplayName("Junit test for Given First Name And LastName when findByNativeSQL then Return Person Object")
 	void testGivenFirstNameAndLastName_whenfindByNativeSQL_thenReturnPersonObject() {
 		
 		// Given / Arrange
@@ -207,10 +197,8 @@ class PersonRepositoryTest {
 		assertEquals(lastName, savedPerson.getLastName());
 	}
 	
-	@DisplayName(
-		"Junit test for Given First Name And LastName when findByNativeSQLWithNamedParameters then Return Person Object"
-	)
 	@Test
+	@DisplayName("Junit test for Given First Name And LastName when findByNativeSQLWithNamedParameters then Return Person Object")
 	void testGivenFirstNameAndLastName_whenfindByNativeSQLWithNamedParameters_thenReturnPersonObject() {
 		
 		// Given / Arrange

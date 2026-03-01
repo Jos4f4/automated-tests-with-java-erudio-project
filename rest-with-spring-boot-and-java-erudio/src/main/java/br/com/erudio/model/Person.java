@@ -34,7 +34,9 @@ public class Person implements Serializable {
     @Column(nullable = false, length = 100)
     private String email;
 
-    public Person() {}
+    public Person() {
+    	
+    }
 
     public Person(
     	String firstName, 

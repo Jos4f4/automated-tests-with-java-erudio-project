@@ -51,16 +51,12 @@ public class PersonServicesTest {
 		);
 	}
 	
-	@DisplayName(
-		"JUnit test for Given Person Object When Save Person then Return Person Object"
-	)
 	@Test
+	@DisplayName("JUnit test for Given Person Object When Save Person then Return Person Object")
 	void testGivenPersonObject_WhenSavePerson_thenReturnPersonObject() {
 		
 		// Given / Arrange
-		given(
-			repository.findByEmail(anyString())).willReturn(Optional.empty()
-		);
+		given(repository.findByEmail(anyString())).willReturn(Optional.empty());
 		given(repository.save(person0)).willReturn(person0);
 		
 		// When / Act
@@ -71,30 +67,22 @@ public class PersonServicesTest {
 		assertEquals("Leandro", savedPerson.getFirstName());
 	}
 	
-	@DisplayName(
-		"JUnit test for Given Existing Email when Save Person then throws Exception"
-	)
 	@Test
+	@DisplayName("JUnit test for Given Existing Email when Save Person then throws Exception")
 	void testGivenExistingEmail_WhenSavePerson_thenThrowsException() {
 		
 		// Given / Arrange
-		given(
-			repository.findByEmail(anyString())).willReturn(Optional.of(person0)
-		);
+		given(repository.findByEmail(anyString())).willReturn(Optional.of(person0));
 		
 		// When / Act
-		assertThrows(ResourceNotFoundException.class, () ->{
-			services.create(person0);
-		});
+		assertThrows(ResourceNotFoundException.class, () ->{services.create(person0);});
 		
 		// Then / Assert
 		verify(repository, never()).save(any(Person.class));
 	}
 	
-	@DisplayName(
-		"JUnit test for Given Persons List When FindAll Persons then Return Persons List"
-	)
 	@Test
+	@DisplayName("JUnit test for Given Persons List When FindAll Persons then Return Persons List")
 	void testGivenPersonsList_WhenFindAllPersons_thenReturnPersonsList() {
 		
 		// Given / Arrange
@@ -116,10 +104,8 @@ public class PersonServicesTest {
 		assertEquals(2, personsList.size());
 	}
 	
-	@DisplayName(
-		"JUnit test for Given Persons List When FindAll Persons then Return Empty Persons List"
-	)
 	@Test
+	@DisplayName("JUnit test for Given Persons List When FindAll Persons then Return Empty Persons List")
 	void testGivenPersonsList_WhenFindAllPersons_thenReturnEmptyPersonsList() {
 		
 		// Given / Arrange
@@ -133,10 +119,8 @@ public class PersonServicesTest {
 		assertEquals(0, personsList.size());
 	}
 	
-	@DisplayName(
-		"JUnit test for Given PersonId When FindById then Return Person Object"
-	)
 	@Test
+	@DisplayName("JUnit test for Given PersonId When FindById then Return Person Object")
 	void testGivenPersonId_WhenFindById_thenReturnPersonObject() {
 		
 		// Given / Arrange
@@ -150,10 +134,8 @@ public class PersonServicesTest {
 		assertEquals("Leandro", savedPerson.getFirstName());
 	}
 	
-	@DisplayName(
-		"JUnit test for Given Person Object When Update Person then Return Updated Person Object"
-	)
 	@Test
+	@DisplayName("JUnit test for Given Person Object When Update Person then Return Updated Person Object")
 	void testGivenPersonObject_WhenUpdatePerson_thenReturnUpdatedPersonObject() {
 		
 		// Given / Arrange
@@ -175,10 +157,8 @@ public class PersonServicesTest {
 		assertEquals("leonardo@erudio.com.br", updatedPerson.getEmail());
 	}
 	
-	@DisplayName(
-		"JUnit test for Given Given PersonID When Delete Person then Do Nothing"
-	)
 	@Test
+	@DisplayName("JUnit test for Given Given PersonID When Delete Person then Do Nothing")
 	void testGivenPersonID_WhenDeletePerson_thenDoNothing() {
 		
 		// Given / Arrange
