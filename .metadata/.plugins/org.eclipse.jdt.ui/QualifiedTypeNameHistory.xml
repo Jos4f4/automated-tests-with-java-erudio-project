@@ -3,6 +3,8 @@
     <fullyQualifiedTypeName name="org.hamcrest.MatcherAssert"/>
     <fullyQualifiedTypeName name="org.mockito.ArgumentCaptor"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="org.mockito.BDDMockito"/>
+    <fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
