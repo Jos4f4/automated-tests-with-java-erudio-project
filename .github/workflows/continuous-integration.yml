@@ -23,7 +23,7 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Build Application JAR
-      working-directory: ./automated-tests-with-java-erudio-project/rest-with-spring-boot-and-java-erudio-s13
+      working-directory: ./rest-with-spring-boot-and-java-erudio-s13
       run: mvn clean package
 
     - name: Docker Compose Build
