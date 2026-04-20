@@ -27,7 +27,7 @@ jobs:
       run: mvn clean package
 
     - name: Docker Compose Build
-      working-directory: ./automated-tests-with-java-erudio-project
+      working-directory: ./
       run: docker compose build
 
     - name: Push to Docker Hub Conteiner Registry
