@@ -53,11 +53,16 @@ jobs:
 
     - name: Download task definition
       run: |
-        aws ecs describe-task-definition --task-definition ${{ secrets.TASK_DEFINITION_NAME}} --query taskDefinition > task-definition.json
-
-        jq 'del(.taskDefinitionArn, .revision, .status, .requiresAttributes, .compatibilities, .registeredAt, .registeredBy, .enableFaultInjection)' task-definition.json > temp.json && mv temp.json task-definition.json
-
-        cat task-definition.json
+        aws ecs describe-task-definition \
+          --task-definition ${{ secrets.TASK_DEFINITION_NAME }} \
+          --query taskDefinition > raw-task-def.json
+        
+        jq 'del(.taskDefinitionArn, .revision, .status, .requiresAttributes, .compatibilities, .registeredAt, .registeredBy, .enableFaultInjection)' raw-task-def.json > task-definition.json
+        
+        if [ ! -s task-definition.json ]; then
+          echo "ERRO: The file task-definition.json is empty!"
+          exit 1
+        fi
 
     - name: Download task definition
       run: |
