@@ -52,7 +52,7 @@ jobs:
         docker push ${{ secrets.IMAGE_REPO_URL }}:latest
     
     - name: Download task definition
-      run:
+      run: |
         aws ecs describe-task-definition --task-definition ${{ secrets.TASK_DEFINITION_NAME}} --query taskDefinition > task-definition.json
 
         cat raw-task-definition.json | jq 'del(.taskDefinitionArn, .revision, .status, .requiresAttributes, .compatibilities, .registeredAt, .registeredBy, .enableFaultInjection)' > task-definition.json
