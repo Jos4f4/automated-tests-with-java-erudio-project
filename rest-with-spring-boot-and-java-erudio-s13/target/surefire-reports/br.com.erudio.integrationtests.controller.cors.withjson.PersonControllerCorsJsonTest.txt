@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: br.com.erudio.integrationtests.controller.cors.withjson.PersonControllerCorsJsonTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 41.002 s - in br.com.erudio.integrationtests.controller.cors.withjson.PersonControllerCorsJsonTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 43.898 s - in br.com.erudio.integrationtests.controller.cors.withjson.PersonControllerCorsJsonTest
