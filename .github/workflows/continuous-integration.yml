@@ -20,8 +20,8 @@ jobs:
     - name: Configure AWS credentials
       uses: aws-actions/configure-aws-credentials@v1
       with:
-        aws-acess-key-id: ${{ secrets.AWS_ACESS_KEY_ID }}
-        aws-secret-acess-key: ${{ secrets.AWS_SECRET_ACESS_KEY }}
+        aws-acess-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-acess-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
 
     - name: Login to Amazon ECR
@@ -47,7 +47,7 @@ jobs:
       run: |
         docker tag ${{ secrets.DOCKER_USERNAME }}/rest-with-spring-boot-erudio:latest ${{ secrets.IMAGE_REPO_URL }}:${{ github.run_id }}
         docker tag ${{ secrets.DOCKER_USERNAME }}/rest-with-spring-boot-erudio:latest ${{ secrets.IMAGE_REPO_URL }}:latest
-        
+        	
         docker push ${{ secrets.IMAGE_REPO_URL }}:${{ github.run_id }}
         docker push ${{ secrets.IMAGE_REPO_URL }}:latest
 
